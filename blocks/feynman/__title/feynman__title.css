@@ -4,7 +4,8 @@
   font-weight:600;
   line-height: 1.15;
   font-size: 120px;
-  width: 648px;
+  width: 100%;
+  max-width: 648px;
   margin-right: auto;
   margin-left: auto;
   margin-bottom: 70px;
